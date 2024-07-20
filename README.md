@@ -1,0 +1,1 @@
+In this project, we have done a short EDA and fixe some short error in such a way that we use it after for future experince.
